@@ -1,0 +1,30 @@
+main {
+  background-color: aqua;
+}
+.primeiro-texto {
+  font-size: 100px;
+  padding-top: 40px;
+}
+.class-grid {
+  padding-top: 50px;
+  background-color: white;
+}
+.image-card {
+  height: 20%;
+}
+.card-largura {
+  max-width: 18rem;
+  min-width: 10rem;
+}
+.anulador {
+  font-size: 10px;
+  display: inline;
+}
+.card-largura-igual {
+  max-width: 20px;
+  min-width: 10px;
+}
+footer {
+  padding: 20px 0 0 20px;
+  background-color: red;
+}
